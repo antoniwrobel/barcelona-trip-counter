@@ -25,6 +25,7 @@ export const App = () => {
             top: ['0', 0, '-100%'],
             bgcolor: '#cfe8fc',
             p: 4,
+            borderRadius: '4px',
             alignItems: 'center',
             display: 'flex',
             boxSizing: 'border-box',
