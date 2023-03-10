@@ -30,7 +30,8 @@ export const App = () => {
             display: 'flex',
             boxSizing: 'border-box',
             justifyContent: 'space-between',
-            width: '100%'
+            width: '100%',
+            boxShadow: '0 0 10px 0 #dedede'
           }}
         >
           <CountdownTimer targetDate={dateTimeAfterThreeDays} />
