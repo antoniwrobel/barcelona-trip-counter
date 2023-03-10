@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/antoniwrobel/barcelona-trip-counter/static/css/main.f3ed82f8.css",
-    "main.js": "/antoniwrobel/barcelona-trip-counter/static/js/main.ace86ec2.js",
-    "static/js/787.92a4e313.chunk.js": "/antoniwrobel/barcelona-trip-counter/static/js/787.92a4e313.chunk.js",
-    "static/media/fira-code-all-400-normal.woff": "/antoniwrobel/barcelona-trip-counter/static/media/fira-code-all-400-normal.c050f0ce726c76d279c8.woff",
-    "static/media/fira-code-latin-400-normal.woff2": "/antoniwrobel/barcelona-trip-counter/static/media/fira-code-latin-400-normal.e662d57ce51fba1f46e3.woff2",
-    "static/media/fira-code-cyrillic-ext-400-normal.woff2": "/antoniwrobel/barcelona-trip-counter/static/media/fira-code-cyrillic-ext-400-normal.8ae7ba46c49a0347ea65.woff2",
-    "static/media/fira-code-greek-400-normal.woff2": "/antoniwrobel/barcelona-trip-counter/static/media/fira-code-greek-400-normal.fdf1c77f42d62a5dc722.woff2",
-    "static/media/fira-code-latin-ext-400-normal.woff2": "/antoniwrobel/barcelona-trip-counter/static/media/fira-code-latin-ext-400-normal.f688c1c39f363f86fd4a.woff2",
-    "static/media/fira-code-cyrillic-400-normal.woff2": "/antoniwrobel/barcelona-trip-counter/static/media/fira-code-cyrillic-400-normal.3b12523542a36f074eff.woff2",
-    "static/media/fira-code-greek-ext-400-normal.woff2": "/antoniwrobel/barcelona-trip-counter/static/media/fira-code-greek-ext-400-normal.0e81dfaccdc5adb60d7c.woff2",
-    "index.html": "/antoniwrobel/barcelona-trip-counter/index.html",
-    "main.f3ed82f8.css.map": "/antoniwrobel/barcelona-trip-counter/static/css/main.f3ed82f8.css.map",
-    "main.ace86ec2.js.map": "/antoniwrobel/barcelona-trip-counter/static/js/main.ace86ec2.js.map",
-    "787.92a4e313.chunk.js.map": "/antoniwrobel/barcelona-trip-counter/static/js/787.92a4e313.chunk.js.map"
+    "main.css": "/static/css/main.2e570644.css",
+    "main.js": "/static/js/main.4f79e9ef.js",
+    "static/js/787.92a4e313.chunk.js": "/static/js/787.92a4e313.chunk.js",
+    "static/media/fira-code-all-400-normal.woff": "/static/media/fira-code-all-400-normal.c050f0ce726c76d279c8.woff",
+    "static/media/fira-code-latin-400-normal.woff2": "/static/media/fira-code-latin-400-normal.e662d57ce51fba1f46e3.woff2",
+    "static/media/fira-code-cyrillic-ext-400-normal.woff2": "/static/media/fira-code-cyrillic-ext-400-normal.8ae7ba46c49a0347ea65.woff2",
+    "static/media/fira-code-greek-400-normal.woff2": "/static/media/fira-code-greek-400-normal.fdf1c77f42d62a5dc722.woff2",
+    "static/media/fira-code-latin-ext-400-normal.woff2": "/static/media/fira-code-latin-ext-400-normal.f688c1c39f363f86fd4a.woff2",
+    "static/media/fira-code-cyrillic-400-normal.woff2": "/static/media/fira-code-cyrillic-400-normal.3b12523542a36f074eff.woff2",
+    "static/media/fira-code-greek-ext-400-normal.woff2": "/static/media/fira-code-greek-ext-400-normal.0e81dfaccdc5adb60d7c.woff2",
+    "index.html": "/index.html",
+    "main.2e570644.css.map": "/static/css/main.2e570644.css.map",
+    "main.4f79e9ef.js.map": "/static/js/main.4f79e9ef.js.map",
+    "787.92a4e313.chunk.js.map": "/static/js/787.92a4e313.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3ed82f8.css",
-    "static/js/main.ace86ec2.js"
+    "static/css/main.2e570644.css",
+    "static/js/main.4f79e9ef.js"
   ]
 }
