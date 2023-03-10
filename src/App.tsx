@@ -5,7 +5,7 @@ import { CountdownTimer } from './CountDownTimer';
 
 export const App = () => {
   const SEVEN_DAYS_IN_MS = 7 * 24 * 60 * 60 * 1000;
-  const NOW_IN_MS = new Date().getTime();
+  const NOW_IN_MS = new Date('2023-03-10').getTime();
 
   const dateTimeAfterThreeDays = NOW_IN_MS + SEVEN_DAYS_IN_MS;
 
