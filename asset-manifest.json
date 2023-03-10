@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/barcelona-trip-counter/static/css/main.05ccb107.css",
-    "main.js": "/barcelona-trip-counter/static/js/main.968e7be2.js",
+    "main.js": "/barcelona-trip-counter/static/js/main.c617f9f8.js",
     "static/js/787.92a4e313.chunk.js": "/barcelona-trip-counter/static/js/787.92a4e313.chunk.js",
     "static/media/fira-code-all-400-normal.woff": "/barcelona-trip-counter/static/media/fira-code-all-400-normal.c050f0ce726c76d279c8.woff",
     "static/media/fira-code-latin-400-normal.woff2": "/barcelona-trip-counter/static/media/fira-code-latin-400-normal.e662d57ce51fba1f46e3.woff2",
@@ -12,11 +12,11 @@
     "static/media/fira-code-greek-ext-400-normal.woff2": "/barcelona-trip-counter/static/media/fira-code-greek-ext-400-normal.0e81dfaccdc5adb60d7c.woff2",
     "index.html": "/barcelona-trip-counter/index.html",
     "main.05ccb107.css.map": "/barcelona-trip-counter/static/css/main.05ccb107.css.map",
-    "main.968e7be2.js.map": "/barcelona-trip-counter/static/js/main.968e7be2.js.map",
+    "main.c617f9f8.js.map": "/barcelona-trip-counter/static/js/main.c617f9f8.js.map",
     "787.92a4e313.chunk.js.map": "/barcelona-trip-counter/static/js/787.92a4e313.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05ccb107.css",
-    "static/js/main.968e7be2.js"
+    "static/js/main.c617f9f8.js"
   ]
 }
